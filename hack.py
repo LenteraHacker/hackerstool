@@ -2,15 +2,15 @@
 
 clearscreen()
 logo()
-print "DW SQUAD OFFICAL"
-Select from the menu:
+print("DW SQUAD OFFICAL")
+Pilih menu:
   01) Create a Netcat Payload and Listener
   02) Facebook Group Hijack Attack
   03) SMS Bomber Attack Vectors
   04) SMS Spoof Attack Vectors
   05) Denial-of-Service Attack
   
-  00) Exit the Santet
+  00) Exit the Tool
 """
 santet = raw_input("santet > ")
 
